@@ -1,4 +1,4 @@
-function Exercicio1(){
+function exercicio1(){
     let atvi
     while(true){
         atvi = prompt ("digite uma nota de 0 a 10") ;
@@ -10,3 +10,4 @@ function Exercicio1(){
         }
     }
 }
+
