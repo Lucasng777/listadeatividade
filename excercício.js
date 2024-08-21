@@ -10,4 +10,3 @@ function Exercicio1(){
         }
     }
 }
-Exercicio1();
